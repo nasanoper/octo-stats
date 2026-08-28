@@ -1,8 +1,8 @@
 {
   "version": "5.4",
-  "total_hits": 1,
-  "unique_ips": 1,
+  "total_hits": 0,
+  "unique_ips": 0,
   "last_updated": "2026-08-28T00:00:00.000Z",
-  "entries": [{ "ip": "104.28.211.55", "timestamp": "2026-08-28T00:00:00.000Z", "ua": "test", "domain": "test.com", "href": "https://test.com", "version": "5.4", "proxy": false, "country": "US", "isp": "Cloudflare" }],
+  "entries": [],
   "proxy_warnings": []
 }
