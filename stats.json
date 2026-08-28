@@ -1,8 +1,8 @@
 {
   "version": "5.3",
-  "total_hits": 16,
+  "total_hits": 17,
   "unique_ips": 1,
-  "last_updated": "2026-08-28T06:31:33.072Z",
+  "last_updated": "2026-08-28T06:34:53.180Z",
   "entries": [
     {
       "ip": "104.28.211.55",
@@ -205,6 +205,19 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
       "domain": "linkhuongdan.online",
       "href": "https://linkhuongdan.online/173-2/?qq=complete",
+      "version": "5.3",
+      "proxy": false,
+      "country": "",
+      "isp": "",
+      "org": "",
+      "query": "104.28.211.55"
+    },
+    {
+      "ip": "104.28.211.55",
+      "timestamp": "2026-08-28T06:34:52.733Z",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "domain": "linkhuongdan.online",
+      "href": "https://linkhuongdan.online/152-2/?qq=complete",
       "version": "5.3",
       "proxy": false,
       "country": "",
